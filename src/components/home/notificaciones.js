@@ -110,7 +110,7 @@ class bontonDescarga extends React.Component {
     return(
       <div>
         <List
-          style={{overflowX:"hidden",marginTop:"2rem",overflowY:"scroll"}}
+          style={{overflowX:"hidden",marginTop:"2rem",maxHeight:"95vh",overflowY:"scroll"}}
           itemLayout="horizontal"
           dataSource={this.props.notificaciones}
           renderItem={(item,props=this.props) => (
