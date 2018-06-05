@@ -1,0 +1,17 @@
+.Alta{
+    background-color: #ffb3af;
+}
+.Media{
+    background-color: #b4ecb4;
+}
+.Baja{
+    background-color: #fdfda9;
+   
+}
+.prioridadFormat{
+    height: 1.5rem;
+    line-height: 1.5rem;
+    border-radius: 1.5625rem;
+    text-align: center;
+    width: 3rem;
+}
